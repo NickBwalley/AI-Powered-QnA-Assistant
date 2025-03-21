@@ -1,8 +1,11 @@
-openai
+streamlit
 langchain
-langchain_openai
-langchain_chroma
-numpy
-scikit-learn
-plotly
+pypdf
+docx2txt
+chromadb
+openai
 python-dotenv
+langchain-openai
+langchain_experimental
+langchain_chroma
+langchain[docarray]
