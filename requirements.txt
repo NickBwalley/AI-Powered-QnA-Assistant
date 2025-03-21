@@ -1,0 +1,8 @@
+openai
+langchain
+langchain_openai
+langchain_chroma
+numpy
+scikit-learn
+plotly
+python-dotenv
