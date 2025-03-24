@@ -1,17 +1,15 @@
-# AI-Powered-QnA-Assistant
-
+AI-Powered-QnA-Assistant
 A powerful tool that allows users to ask questions about their PDF and DOCX files and receive contextually relevant answers using OpenAI's API.
+Overview
+This application enables users to upload document files (.pdf or .docx) and ask questions about the content. The tool processes documents by converting them into vectors stored in a knowledge base, then uses OpenAI's powerful language model to analyze the content and provide accurate, articulate responses based on the context within those files.
+Features
 
-## Overview
+Document Upload: Supports PDF and DOCX files up to 200MB
+Vector-Based Processing: Converts document content into vectors stored in a vectorstore folder
+Knowledge Base Integration: Maintains uploaded document information in a dedicated knowledge base
+Interactive Q&A: Ask any question about your document and get contextually relevant, articulate answers
+Simple Interface: User-friendly design built with Streamlit
 
-This application enables users to upload document files (.pdf or .docx) and ask questions about the content. The tool uses OpenAI's powerful language model to analyze the documents and provide accurate responses based on the context within those files.
-
-## Features
-
-- **Document Upload:** Supports PDF and DOCX files up to 200MB
-- **Interactive Q&A:** Ask any question about your document and get contextually relevant answers
-- **Simple Interface:** User-friendly design built with Streamlit
-- **Fast Processing:** Quick analysis and response generation
 
 ## Demo
 
