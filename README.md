@@ -15,7 +15,7 @@ This application enables users to upload document files (.pdf or .docx) and ask 
 
 ## Demo
 
-![AI QnA Assistant Demo](https://via.placeholder.com/800x400?text=AI+QnA+Assistant+Demo)
+![Img_1](https://raw.githubusercontent.com/NickBwalley/AI-Powered-QnA-Assistant/master/assets/img1.png)
 
 ## Installation
 
